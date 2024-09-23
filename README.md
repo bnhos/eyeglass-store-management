@@ -11,3 +11,4 @@ Customers can manage their personal account details and book frames.
 To execute the program in shell, type "python bneyeglass.py".
 To execute the program in VSCode, find the find the play buttom drop down prompt in the middle top right of the screen and click on "Run Python File".
 
+This script can be employed on to a website to assist business owners.
